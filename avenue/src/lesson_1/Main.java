@@ -43,6 +43,9 @@ public class Main {
         }
         //1+0
 
+        if (first || second) {
+            System.out.println("hello");
+        }
 
         //  System.out.println("Доманее задание 3. Задача 1:\n" +
         //          "Есть массив чисел от 1 до 30. Выводить в консоль все четные числа, кроме 6, 10, 14.\n" +
